@@ -22,4 +22,22 @@ li{
     .table{
         float: right;
         padding: 25px;
+        text-align: center;
     }
+    .show{
+        border-right: 1px solid black;
+       
+    }
+    .hr .h2 .table .tr .td .span{
+        height: 20px;
+    }
+    .img{
+        display:block;
+        max-width: 100%;
+        
+    }
+    .one{
+        width: 250px;
+        height: 250px;
+    }
+    
