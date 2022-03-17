@@ -1,0 +1,25 @@
+li{
+    list-style: none;
+    display: inline;
+    
+    }
+    li a{
+        text-decoration: none;
+        padding: 15px;
+        font-size: 11px;
+        line-height: 5px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       
+      
+    }
+    .h1{
+        text-align: center;
+        
+    }
+    .nav{
+        text-align: center;
+    }
+    .table{
+        float: right;
+        padding: 25px;
+    }
