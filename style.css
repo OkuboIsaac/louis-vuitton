@@ -15,8 +15,14 @@ li{
         font-size: 11px;
         line-height: 5px;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: black;
        
       
+    }
+    li a:hover{
+        background: #453630;
+        color:black;
+        border-radius: 20px;
     }
     .h1{
         text-align: center;
