@@ -1,10 +1,12 @@
 
 .mainback404{
     background-color: #f6f5f3;
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
+   
 }
 .body404{
     background-color: white;
+   
 }
 .head404{
     background-color: white;
@@ -44,15 +46,24 @@ li{
     .img404{
         width: 400px;
         height: 200px;
-        margin-left: 450px;
+        margin-left: 600px;
         padding-top:100px;
         background-color: white;
         background-position:center;
         padding:50px 30px;
         background-attachment:fixed;
         background-size: contain;
+        
   }
    .p404{
     text-align: center;
    }
-
+.section404{
+    background-color: white;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    background:var(--black);
+    flex-wrap: wrap;
+    margin-left: 300px;
+}
