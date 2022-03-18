@@ -4,14 +4,14 @@ body {
   line-height: 1.5;
 }
 h1 {
-  font-family: "Aladin";
+  /* font-family: "Aladin"; */
   font-size: 28px;
   text-align: center;
   margin-top: 10px;
   letter-spacing: 2px;
 }
 .nav-link {
-  font-family: "Allan";
+  /* font-family: "Allan"; */
   font-size: 16px;
   letter-spacing: 2px;
   color: black;
@@ -32,7 +32,7 @@ h2 {
   justify-content: space-between;
 }
 img {
-  width: 400px;
+  width: 700px;
   margin-top: 60px;
   transition: 2s;
 }
