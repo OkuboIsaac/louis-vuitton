@@ -1,5 +1,48 @@
 
-   .header-one{
+
+   .spring-header-one{
+       text-align: center;
+       margin-top: 0;
+       margin-bottom: 0;
+       margin-left: 0.5em;
+       padding: 0;
+       border-bottom: 10px;
+   }
+
+.mainback404{
+    background-color: #f6f5f3;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.body404{
+    background-color: white;
+   
+}
+.head404{
+    background-color: white;
+   
+}
+li{
+    list-style: none;
+    display: inline;
+    
+    }
+    li a{
+        text-decoration: none;
+        padding: 15px;
+        font-size: 11px;
+        line-height: 5px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: black;
+       
+      
+    }
+    li a:hover{
+        background: #453630;
+        color:#9B7E4B;
+        border-radius: 20px;
+    }
+    .spring-h1{
         text-align: center;
         margin-top:15px;
     }
@@ -14,11 +57,11 @@
        font-family: Verdana, Geneva, Tahoma, sans-serif;
        font-weight:bold ;
     }
-    .div-one{
+    .spring-div-one{
         font-weight: bold;
         padding: 15px;
     }
-    .one{
+    .spring-one{
         border: 1px solid rgb(210, 200, 200);
         border-right: none;
         border-left: none;
@@ -26,11 +69,12 @@
         height: 80px;
         
     }
-    .div-two{
+    .spring-div-two{
         border: 1px solid rgb(210, 200, 200);
         height:80px;
         width: 945px;
     }
+
     h3{
     padding-left: 500px;
     font-weight: lighter;
@@ -38,12 +82,12 @@
     font-size: 18px;
     padding-top: 21px;
     }
-    .div-three{
+    .spring-div-three{
         border: 1px solid rgb(210, 200, 200);
         height:80px;
         width: 195px;   
     }
-    .div-four{
+    .spring-div-four{
        
         height:80px;
         width: 195px;
@@ -55,23 +99,23 @@
     font-size: 18px;
     padding-top: -1px;
     }
-    .hr{
+    .spring-hr{
         border: 1px solid rgb(210, 200, 200);
     
     }
-    .image{
+    .spring-image{
         display: flex;
         padding-top: 50px;
   
     
     }
-    .image-one{
+    .spring-image-one{
         padding: 15px;
         padding-right: 5px;
         
     }
    
-      .image-image{
+      .spring-image-image{
         width: 800px;
         height: 410px;
       }
@@ -80,3 +124,33 @@
        
        
     
+
+    .table{
+        float: right;
+        padding: 25px;
+    }
+    .img404{
+        width: 400px;
+        height: 200px;
+        margin-left: 600px;
+        padding-top:100px;
+        background-color: white;
+        background-position:center;
+        padding:50px 30px;
+        background-attachment:fixed;
+        background-size: contain;
+        
+  }
+   .p404{
+    text-align: center;
+   }
+.section404{
+    background-color: white;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    background:var(--black);
+    flex-wrap: wrap;
+    margin-left: 300px;
+}
+
